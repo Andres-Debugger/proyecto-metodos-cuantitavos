@@ -1,0 +1,15 @@
+{
+  "nombre_equipo": "Equipo DataStream",
+  "duracion": 90.0,
+  "semilla": 2026,
+  "tasa_llegada": 5.5,
+  "capacidad_buffer": 40,
+  "intervalo_planificacion": 0.65,
+  "intervalo_rutas": 1.25,
+  "factor_congestion": 2.8,
+  "mtbf_router": 180.0,
+  "mtbf_servidor": 150.0,
+  "tiempo_reparacion": 10.0,
+  "presupuesto_energia": 34.0,
+  "pesos_cluster": [1.25, 1.0, 1.1]
+}
